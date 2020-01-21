@@ -1,0 +1,11 @@
+[
+    {
+        "model-name": "user",
+        "resource-file": "users.json",
+        "table-name": "users"
+    },
+    {
+        "model-name": "client",
+        "resource-file": "clients.json"
+    }
+]
